@@ -1,13 +1,14 @@
 import React from "react";
+import Home from "./components/Home";
 
 
 function App()  {
   return (
     <div>
-      <h1>
-        PAY IT FORWARD DEV
-        
-      </h1>
+   <Home>
+    
+   </Home>
+
     </div>
   );
 }
