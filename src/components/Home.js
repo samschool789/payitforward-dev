@@ -10,7 +10,14 @@ return(
 <p className="text-2xl">
     Developers and charites working together to make the world a better place
 </p>
+<submit className="text-2xl" type="btn">
+    <a href="/Apply">
+        Click here to get started!! 
+    </a>
+    
+</submit>
 </h1>
+
 
 )
 
